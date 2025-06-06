@@ -14,21 +14,21 @@ body {
 
 .hero-section , .footer{
     background-color: #1F2937;
-    padding: 16px;
+    padding: 16px 64px;
 }
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
 
 .content {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     gap: 16px;
-    margin: 128px;
+    margin: 128px 0;
 }
 
 .content .information {
